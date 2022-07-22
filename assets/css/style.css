@@ -1,0 +1,68 @@
+header  {
+    align-content: center;
+    background:linear-gradient(to right, blue, blueviolet);
+    margin:auto;
+    text-align: center;
+    border: 300;
+    color: white;
+    font-size:xx-large;
+}
+
+.form-label{
+    font-size:xx-large
+}
+
+li{
+  width: 120px;
+  vertical-align: top;
+  color: white;
+  font-size:50px;
+  padding: 20 20;
+}
+
+.btn1 {
+    
+    align-items: left;
+    border-color:black;
+}
+
+
+#austin{
+    font-size:x-large;
+    background-color: gray;
+
+}
+#chicago{
+    font-size:x-large;
+    background-color: gray;
+}
+
+#newYork{
+    font-size:x-large;
+    background-color: gray;
+}
+
+#orlando{
+    font-size:x-large;
+    background-color: gray;
+}
+
+#sanFransico{
+    font-size:x-large;
+    background-color: gray;
+}
+
+#seattle {
+    font-size:x-large;
+    background-color: gray;
+}
+
+#denver {
+    font-size:x-large;
+    background-color: gray;
+}
+
+#atlanta {
+    font-size:x-large;
+    background-color: gray;
+}
